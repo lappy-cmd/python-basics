@@ -67,11 +67,20 @@ print (5!=2)
 #git steps
 
 #1. git init
-#2. git config --global user.name "ashvik"
-#3. git config --global user.email "ashvik.sekar@gmail.com"
-#4. git add. .
+#2. git config --global user.name = "ashvik"
+#3. git config --global user.email = "ashvik.sekar@gmail.com"
+#4. git add .
 #5. git commit -m "message"
 # next, create the repo(repository) on github
 #6. git branch -M main
-#7. git remode add origin (link)
+#7. git remote add origin (link)
 #8. git push origin main
+
+print (12+12.5)
+print (44/11)
+print (float(5)/2)
+print (4*5)
+#string operations - math but for strings/words
+print ("hello"+"world")
+print (5 * "hello")
+print (22+33)
