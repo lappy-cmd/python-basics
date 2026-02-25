@@ -69,12 +69,12 @@ print (5!=2)
 #1. git init
 #2. git config --global user.name = "ashvik"
 #3. git config --global user.email = "ashvik.sekar@gmail.com"
-#4. git add .
-#5. git commit -m "message"
+#4. git add . *
+#5. git commit -m "message" *
 # next, create the repo(repository) on github
 #6. git branch -M main
 #7. git remote add origin (link)
-#8. git push origin main
+#8. git push origin main *
 
 print (12+12.5)
 print (44/11)

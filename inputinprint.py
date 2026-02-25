@@ -25,11 +25,12 @@
 # print (x*100)
 
 
-# #user aged2
-# userage = int(input("What year were you born in?"))
-# print ("You are about ", 2026 - userage, " years old.")
+# # #user aged2
+# # userage = int(input("What year were you born in?"))
+# # print ("You are about ", 2026 - userage, " years old.")
 
-#384400
-speed = int(input("At what speed will you travel?"))
 
-print ("You will reach in, ", round(384400/speed, 2), " hours.")
+# #rounding/inputting
+# speed = int(input("At what speed will you travel?"))
+
+# print ("You will reach in, ", round(384400/speed, 2), " hours.")
