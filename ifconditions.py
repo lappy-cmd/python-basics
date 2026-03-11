@@ -79,6 +79,28 @@
 #         print ("Leap year")
 #     else:
 #         if year%400 == 0:
-#             print ("Leap year")
-#         else:
-#             print ("Not a leap year")
+# #             print ("Leap year")
+# #         else:
+# #             print ("Not a leap year")
+
+
+# pw = input("Create password: ")
+
+# # if len(pw) >= 8:
+# #     print ("Successful.")
+# # else: print ("Try again. Use 8+ characters.")
+
+# word = input("Enter a word: ")
+
+
+# if "a" in word:
+#     print ("a is present.")
+# if "e" in word:
+#     print ("e is present.")
+# if "i" in word:
+#     print ("i is present.")
+# if "o" in word:
+#     print ("o is present.")
+# if "u" in word:
+#     print ("u is present.")
+    
