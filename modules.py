@@ -23,7 +23,7 @@
 # #     print ("Thank you for visiting our website.")
 
 
-# random number
+# random integer
 
 # import random
 # num = random.randint(1,30)
@@ -32,7 +32,7 @@
 # else:
 #     print ("The number is not divisible by 2 and 3.")
     
-# random integer
+# random decimal
     
 # import time
 # import random

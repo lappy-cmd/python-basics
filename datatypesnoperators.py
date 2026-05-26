@@ -76,6 +76,12 @@ print (5!=2)
 #7. git remote add origin (link)
 #8. git push origin main *
 
+# mandatory stuff
+
+# git add .
+# git commit -m "message"
+# git push origin main
+
 print (12+12.5)
 print (44/11)
 print (float(5)/2)
